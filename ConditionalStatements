@@ -1,0 +1,32 @@
+1. Even or Odd Checker:
+Write a method called isEven that takes an integer as input and returns true if the number is even and false otherwise.
+
+2. Largest of Three Numbers:
+Write a method called findLargest that takes three integers as input and returns the largest of the three numbers.
+
+3. Leap Year Checker:
+Write a method called isLeapYear that takes a year as input and returns true if the year is a leap year and false otherwise. (A leap year is divisible by 4, but not by 100 unless it is also divisible by 400.)
+
+4. Grading System:
+Write a method called calculateGrade that takes a student's score as input and returns a letter grade based on the following grading scale:
+
+A: 90-100
+B: 80-89
+C: 70-79
+D: 60-69
+F: Below 60
+
+5. Triangle Type Checker:
+Write a method called classifyTriangle that takes the lengths of three sides of a triangle as input and returns a string indicating the type of triangle (equilateral, isosceles, scalene) or if the inputs do not form a valid triangle.
+
+6. Temperature Converter:
+Write a method called convertTemperature that takes a temperature in Celsius as input and converts it to Fahrenheit. Include an optional boolean parameter to specify whether the input temperature is in Celsius or Fahrenheit, and return the converted temperature accordingly.
+
+7. Number Sign Checker:
+Write a method called checkSign that takes an integer as input and returns a string indicating whether the number is positive, negative, or zero.
+
+8. Vowel or Consonant Checker:
+Write a method called isVowel that takes a character as input and returns true if the character is a vowel and false otherwise. Ignore case sensitivity.
+
+9. Palindrome Checker:
+Write a method called isPalindrome that takes a string as input and returns true if the string is a palindrome (reads the same forwards and backwards) and false otherwise.
