@@ -30,3 +30,4 @@ Write a method called isVowel that takes a character as input and returns true i
 
 9. Palindrome Checker:
 Write a method called isPalindrome that takes a string as input and returns true if the string is a palindrome (reads the same forwards and backwards) and false otherwise.
+
